@@ -1,0 +1,16 @@
+/Users/carlosdiaz/Projects/SwipeTabbedPage/SwipeTabbedPage/bin/Debug/netstandard2.0/SwipeTabbedPage.deps.json
+/Users/carlosdiaz/Projects/SwipeTabbedPage/SwipeTabbedPage/bin/Debug/netstandard2.0/SwipeTabbedPage.dll
+/Users/carlosdiaz/Projects/SwipeTabbedPage/SwipeTabbedPage/bin/Debug/netstandard2.0/SwipeTabbedPage.pdb
+/Users/carlosdiaz/Projects/SwipeTabbedPage/SwipeTabbedPage/obj/Debug/netstandard2.0/SwipeTabbedPage.csprojAssemblyReference.cache
+/Users/carlosdiaz/Projects/SwipeTabbedPage/SwipeTabbedPage/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/carlosdiaz/Projects/SwipeTabbedPage/SwipeTabbedPage/obj/Debug/netstandard2.0/Views/AboutPage.xaml.g.cs
+/Users/carlosdiaz/Projects/SwipeTabbedPage/SwipeTabbedPage/obj/Debug/netstandard2.0/Views/ItemDetailPage.xaml.g.cs
+/Users/carlosdiaz/Projects/SwipeTabbedPage/SwipeTabbedPage/obj/Debug/netstandard2.0/Views/ItemsPage.xaml.g.cs
+/Users/carlosdiaz/Projects/SwipeTabbedPage/SwipeTabbedPage/obj/Debug/netstandard2.0/Views/MainPage.xaml.g.cs
+/Users/carlosdiaz/Projects/SwipeTabbedPage/SwipeTabbedPage/obj/Debug/netstandard2.0/Views/NewItemPage.xaml.g.cs
+/Users/carlosdiaz/Projects/SwipeTabbedPage/SwipeTabbedPage/obj/Debug/netstandard2.0/SwipeTabbedPage.csproj.CoreCompileInputs.cache
+/Users/carlosdiaz/Projects/SwipeTabbedPage/SwipeTabbedPage/obj/Debug/netstandard2.0/SwipeTabbedPage.AssemblyInfoInputs.cache
+/Users/carlosdiaz/Projects/SwipeTabbedPage/SwipeTabbedPage/obj/Debug/netstandard2.0/SwipeTabbedPage.AssemblyInfo.cs
+/Users/carlosdiaz/Projects/SwipeTabbedPage/SwipeTabbedPage/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/carlosdiaz/Projects/SwipeTabbedPage/SwipeTabbedPage/obj/Debug/netstandard2.0/SwipeTabbedPage.dll
+/Users/carlosdiaz/Projects/SwipeTabbedPage/SwipeTabbedPage/obj/Debug/netstandard2.0/SwipeTabbedPage.pdb
